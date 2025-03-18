@@ -35,7 +35,7 @@ Ensure you have the following installed:
 ## Setting Up the Frontend
 # Clone the repository:
 git clone https://github.com/your_username/front_bib.git
-cd front_bib
+cd frontend_bib
 # Open the index.html in your browser. You can now view the frontend page where you can interact with the book collection.
 ## Frontend User Interface
 # The frontend includes:
